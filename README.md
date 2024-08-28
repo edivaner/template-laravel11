@@ -13,7 +13,7 @@
 ### Passo a passo
 Clone Repositório
 ```sh
-git clone https://github.com/edivaner/ecommerce_api.git
+git clone https://github.com/edivaner/template-laravel11.git
 ```
 ```sh
 cd ecommerce_api
